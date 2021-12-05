@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @USAYID!
-- 👀 I’m interested in everything interesting
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @USAYID!.
+- 👀 I’m interested in everything interesting.
+- 🌱 I’m currently learning everything current.
+- 📫 How to reach me? Easy.
 
 <!---
 USAYID/USAYID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
