@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @USAYID!.
 - 👀 I’m interested in everything interesting.
-- 🌱 I’m currently learning everything current.
+- 🌱 I’m currently learning nothing.
 - 📫 How to reach me? Easy.
 
 <!---
